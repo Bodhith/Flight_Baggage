@@ -1,0 +1,10 @@
+#                 Task
+1 -> add securityCheck Reject Reason
+2 -> securitCheck Reject upload to db
+3 -> make user Interface
+4 -> set viewManagementLog form notations properly
+5 -> normalize db
+6 -> manipulate timestamps
+7 -> set proper path in misc/runQuery at Pranai's laptop.
+8 -> insert users into db
+9 -> remove sql injections

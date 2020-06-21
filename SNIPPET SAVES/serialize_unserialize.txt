@@ -1,0 +1,11 @@
+require_once("../sim/sim.php");
+
+$LogFile = "logs";
+$logs = serialize(runSimulation());
+file_put_contents($LogFile, $logs);
+
+
+
+
+
+$content = unserialize(file_get_contents($file));
