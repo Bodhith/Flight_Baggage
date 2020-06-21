@@ -5,6 +5,6 @@
 4 -> set viewManagementLog form notations properly
 5 -> normalize db
 6 -> manipulate timestamps
-7 -> set proper path in misc/runQuery at Pranai's laptop.
+7 -> set proper path in misc/runQuery at client's laptop.
 8 -> insert users into db
 9 -> remove sql injections
